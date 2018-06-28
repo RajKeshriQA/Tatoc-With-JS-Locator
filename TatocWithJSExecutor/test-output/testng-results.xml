@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7270" started-at="2018-06-28T08:40:30Z" finished-at="2018-06-28T08:40:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7270" started-at="2018-06-28T08:40:30Z" finished-at="2018-06-28T08:40:37Z">
+      <class name="TatocJSExecutor.TatocWithJSExecutor.TestTatoc">
+        <test-method status="PASS" signature="InitializeBrowser()[pri:0, instance:TatocJSExecutor.TatocWithJSExecutor.TestTatoc@6d64ab]" name="InitializeBrowser" is-config="true" duration-ms="3121" started-at="2018-06-28T08:40:30Z" finished-at="2018-06-28T08:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeBrowser -->
+        <test-method status="PASS" signature="testOpenBrowserAndChooseBasic()[pri:0, instance:TatocJSExecutor.TatocWithJSExecutor.TestTatoc@6d64ab]" name="testOpenBrowserAndChooseBasic" duration-ms="448" started-at="2018-06-28T08:40:33Z" finished-at="2018-06-28T08:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOpenBrowserAndChooseBasic -->
+        <test-method status="PASS" signature="testGreenBox()[pri:1, instance:TatocJSExecutor.TatocWithJSExecutor.TestTatoc@6d64ab]" name="testGreenBox" duration-ms="170" started-at="2018-06-28T08:40:33Z" finished-at="2018-06-28T08:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGreenBox -->
+        <test-method status="PASS" signature="testFrameDungeon()[pri:2, instance:TatocJSExecutor.TatocWithJSExecutor.TestTatoc@6d64ab]" name="testFrameDungeon" duration-ms="1631" started-at="2018-06-28T08:40:33Z" finished-at="2018-06-28T08:40:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFrameDungeon -->
+        <test-method status="PASS" signature="testDragAndDrop()[pri:3, instance:TatocJSExecutor.TatocWithJSExecutor.TestTatoc@6d64ab]" name="testDragAndDrop" duration-ms="283" started-at="2018-06-28T08:40:35Z" finished-at="2018-06-28T08:40:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDragAndDrop -->
+        <test-method status="PASS" signature="testPopUpWindow()[pri:4, instance:TatocJSExecutor.TatocWithJSExecutor.TestTatoc@6d64ab]" name="testPopUpWindow" duration-ms="1391" started-at="2018-06-28T08:40:35Z" finished-at="2018-06-28T08:40:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPopUpWindow -->
+        <test-method status="PASS" signature="testCookie()[pri:5, instance:TatocJSExecutor.TatocWithJSExecutor.TestTatoc@6d64ab]" name="testCookie" duration-ms="170" started-at="2018-06-28T08:40:37Z" finished-at="2018-06-28T08:40:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCookie -->
+      </class> <!-- TatocJSExecutor.TatocWithJSExecutor.TestTatoc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
